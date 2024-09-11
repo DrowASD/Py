@@ -9,4 +9,4 @@ def normalize_spaces(input_string):
 input_string = "Это    пример строки с   несколькими     пробелами."
 print(normalize_spaces(input_string))
 
-#https://github.com/DrowASD/etc
+#https://github.com/DrowASD/etc/blob/main/zxz.py
